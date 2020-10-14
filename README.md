@@ -1,6 +1,6 @@
 Very simple emulation of Big Clive Super Computer on the Micro:Bit built in display
 
-
+display mode can be changed from Greyscale to B/W from within ONSTART block
 
 
 
