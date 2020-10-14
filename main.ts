@@ -8,6 +8,7 @@ basic.showLeds(`
     `)
 basic.pause(100)
 basic.forever(function () {
-    led.toggle(randint(0, 4), randint(0, 4))
+    led.plot(randint(0, 4), randint(0, 4))
+    led.unplot(randint(0, 4), randint(0, 4))
     basic.pause(50)
 })
