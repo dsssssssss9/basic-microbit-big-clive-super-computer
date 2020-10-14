@@ -1,3 +1,12 @@
+Very simple emulation of Big Clive Super Computer on the Micro:Bit built in display
+
+
+
+
+
+
+
+
 
 > Open this page at [https://dsssssssss9.github.io/basic-microbit-big-clive-super-computer/](https://dsssssssss9.github.io/basic-microbit-big-clive-super-computer/)
 
