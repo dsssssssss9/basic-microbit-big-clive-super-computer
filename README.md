@@ -1,7 +1,9 @@
 Very simple emulation of Big Clive Super Computer on the Micro:Bit built in display
 
-display mode can be changed from Greyscale to B/W from within ONSTART block
+Display mode can be changed from Greyscale to B/W from within ONSTART block
 
+Change DELAY variable in ONSTART block to control speed of animation.
+Higher the number( milliseconds ) the slower the animation
 
 
 
